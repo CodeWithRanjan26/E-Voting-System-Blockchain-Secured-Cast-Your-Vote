@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# IDE / PyCharm
+.idea/
+*.iml
+modules.xml
+misc.xml
+workspace.xml
+inspectionProfiles/
+
+# OS files
+.DS_Store
+Thumbs.db
