@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: app-service
+Version: 0.1.0
+Summary: A reusable Django app service
+Home-page: https://github.com/lakshmanaselvan/django-app-service
+Author: Lakshmanaselvan V
+Author-email: lakshmanaselvan.v@icanio.com
+Classifier: Framework :: Django
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: Django>=3.2
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
